@@ -1,1 +1,2 @@
 # stepperOOP
+ Before running the code, download and add the OOP StepperMotor library ("https://github.com/LaurensHuizer/Arduino/tree/master/libraries/StepperMotor") and BaseTimedElement ("https://github.com/LaurensHuizer/Arduino/tree/master/libraries/BaseTimedElement"). The exmaple code in the stepper motor library is a good place to start and understand the library. For more infor, here is a blogpost written for the same library ("http://www.laurenshuizer.nl/blog/arduino/stepper-motor-library").
